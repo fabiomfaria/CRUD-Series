@@ -10,5 +10,6 @@ namespace FF.Series.Interfaces
         void Exclui(int id);        
         void Atualiza(int id, T entidade);
         int ProximoId();
+
     }
 }

@@ -5,6 +5,7 @@ namespace FF.Series
     class Program
     {
         static SerieRepositorio repositorio = new SerieRepositorio();
+
         static void Main(string[] args)
         {
             string opcaoUsuario = ObterOpcaoUsuario();

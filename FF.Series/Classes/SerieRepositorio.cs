@@ -4,6 +4,7 @@ using FF.Series.Interfaces;
 
 namespace FF.Series
 {
+
 	public class SerieRepositorio : IRepositorio<Serie>
 	{
         private List<Serie> listaSerie = new List<Serie>();

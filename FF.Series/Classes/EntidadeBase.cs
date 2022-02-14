@@ -4,5 +4,6 @@ namespace FF.Series
     {
         public int Id { get; protected set; }
 
+
     }
 }

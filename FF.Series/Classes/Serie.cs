@@ -2,6 +2,7 @@ using System;
 
 namespace FF.Series
 {
+
     public class Serie : EntidadeBase
     {
 		private Genero Genero { get; set; }
